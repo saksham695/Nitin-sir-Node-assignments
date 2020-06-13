@@ -11,9 +11,11 @@
   "dependencies": {
     "@hapi/joi": "^17.1.1",
     "express": "^4.14.1",
+    "express-async-errors": "^3.1.1",
     "express-session": "~1.14.1",
     "fs": "0.0.1-security",
     "hbs": "^4.1.1",
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+    "winston": "^3.2.1"
   }
 }
